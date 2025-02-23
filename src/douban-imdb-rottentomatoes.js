@@ -9,7 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // @homepage     https://github.com/fisheepx/douban-imdb-rt
 // @supportURL   https://github.com/fisheepx/douban-imdb-rt/issues
-// @icon         https://github.com/fisheepx/douban-imdb-rt/main/assets/icon/icon.png
+// @icon         https://raw.githubusercontent.com/fisheepx/douban-imdb-rt/main/assets/icon/icon.png
 // @compatible   edge 最新版 运行正常
 // @compatible   chrome 最新版 运行正常
 // @compatible   firefox 最新版 运行正常
