@@ -1,5 +1,15 @@
 # 豆瓣电影显示IMDb和烂番茄评分插件
 
+<p align="center">
+  <img src="assets/icon/alternatives/icon_original.png" width="128" height="128"/>
+  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">=</span>
+  <img src="assets/icon/douban.png" width="128" height="128"/>
+  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">+</span>
+  <img src="assets/icon/imdb.png" width="128" height="128"/>
+  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">+</span>
+  <img src="assets/icon/rottentomatoes.png" width="128" height="128"/>
+</p>
+
 在豆瓣电影页面显示对应的IMDb评分和烂番茄评分（影评人，观众）数据。
 
 ## 效果展示
@@ -20,16 +30,15 @@
 ### 首次使用
 首次使用时，脚本会请求访问 IMDb 和烂番茄网站的权限：
 
-<div style="display: flex; justify-content: flex-start; gap: 20px; margin-bottom: 20px;">
-    <div>
-        <img src="assets/screenshots/permission-imdb.png" width="400" alt="IMDb权限请求">
-        <p style="text-align: center; color: #666; margin-top: 5px;">IMDb</p>
-    </div>
-    <div>
-        <img src="assets/screenshots/permission-rottentomatoes.png" width="400" alt="烂番茄权限请求">
-        <p style="text-align: center; color: #666; margin-top: 5px;">烂番茄</p>
-    </div>
-</div>
+
+<p float="left">
+  <img src="assets/screenshots/permission-imdb.png" width="400"/>
+  <img src="assets/screenshots/permission-rottentomatoes.png" width="400"/>
+</p>
+
+<p float="left">
+  <em>左：IMDb 权限请求 &nbsp;&nbsp;&nbsp;&nbsp; 右：烂番茄权限请求</em>
+</p>
 
 建议点击"总是允许"以获得最佳使用体验。如果不小心点击了其他选项，可以在 Tampermonkey 的设置页面中重新授权。
 
