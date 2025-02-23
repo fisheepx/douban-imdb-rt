@@ -23,7 +23,7 @@
 
 ## 安装
 1. 首先需要安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 然后点击 [这里](Greasy Fork链接待定) 安装脚本
+2. 然后点击 [这里](https://greasyfork.org/zh-CN/scripts/527823-%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-imdb%E5%92%8C%E7%83%82%E7%95%AA%E8%8C%84%E8%AF%84%E5%88%86%E6%98%BE%E7%A4%BA) 安装脚本
 
 ## 使用说明
 
@@ -51,7 +51,11 @@
 - 确保你的网络环境可以访问 IMDb (<ins>www.imdb.com</ins>) 和烂番茄 (<ins>www.rottentomatoes.com</ins>)
 - 如果无法访问这些网站，对应的评分将无法显示
 - 某些在IMDb上无词条的电影无法显示评分
-- 烂番茄可能因错误识别电影词条而导致分数错误
+- 烂番茄评分可能因错误识别电影名称而显示错误
+
+### 关于评分
+- 烂番茄图标含义：[About Rotten Tomatoes®](https://www.rottentomatoes.com/about)
+- IMDb评分常见问题：[IMDb Ratings FAQ](https://help.imdb.com/article/imdb/track-movies-tv/ratings-faq/G67Y87TFYYP6TWAV?showReportContentLink=false#)
 
 ## 兼容性
 - Edge 最新版
