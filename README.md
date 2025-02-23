@@ -44,14 +44,14 @@
   <em>左：IMDb 权限请求 &nbsp;&nbsp;&nbsp;&nbsp; 右：烂番茄权限请求</em>
 </p>
 
-建议点击"总是允许"以获得最佳使用体验。如果不小心点击了其他选项，可以在 Tampermonkey 的设置页面中重新授权。
+建议点击"**<ins>总是允许</ins>**"以获得最佳使用体验。如果不小心点击了其他选项，可以在 Tampermonkey 的设置页面中重新授权。
 
 ### 使用须知
 由于脚本需要从 IMDb 和烂番茄网站获取数据：
-- 确保你的网络环境可以访问 IMDb (www.imdb.com) 和烂番茄 (www.rottentomatoes.com)
+- 确保你的网络环境可以访问 IMDb (<ins>www.imdb.com</ins>) 和烂番茄 (<ins>www.rottentomatoes.com</ins>)
 - 如果无法访问这些网站，对应的评分将无法显示
-- 如在IMDb中无此电影词条则无法显示
-- 某些电影
+- 某些在IMDb上无词条的电影无法显示评分
+- 烂番茄可能因错误识别电影词条而导致分数错误
 
 ## 兼容性
 - Edge 最新版

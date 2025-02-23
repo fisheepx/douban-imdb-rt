@@ -14,8 +14,8 @@
 // @compatible   chrome 最新版 运行正常
 // @compatible   firefox 最新版 运行正常
 // @compatible   safari 最新版 运行正常
-// @updateURL    待定
-// @downloadURL  待定
+// @updateURL    https://greasyfork.org/scripts/527823/code/script.meta.js
+// @downloadURL  https://greasyfork.org/scripts/527823/code/script.user.js
 // ==/UserScript==
 
 (function() {
