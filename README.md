@@ -2,11 +2,11 @@
 
 <div align="center">
 <img src="assets/icon/alternatives/icon_original.png" width="128" height="128"/>
-<img src="assets/icon/equals.png" width="78" height="78" style="margin: 20 20px;"/>
+<img src="assets/icon/equals.png" width="78" height="78" style="margin: 20px 20px;"/>
 <img src="assets/icon/douban.png" width="128" height="128"/>
-<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20 20px;"/>
+<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20px 20px;"/>
 <img src="assets/icon/imdb.png" width="128" height="128"/>
-<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20 20px; "/>
+<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20px 20px; "/>
 <img src="assets/icon/rottentomatoes.png" width="128" height="128"/>
 </div>
 
@@ -31,12 +31,16 @@
 首次使用时，脚本会请求访问 IMDb 和烂番茄网站的权限：
 
 
-<p float="left">
-  <img src="assets/screenshots/permission-imdb.png" width="400"/>
-  <img src="assets/screenshots/permission-rottentomatoes.png" width="400"/>
-</p>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <img src="assets/screenshots/permission-imdb.png" width="400"/>
+  </div>
+  <div>
+    <img src="assets/screenshots/permission-rottentomatoes.png" width="400"/>
+  </div>
+</div>
 
-<p float="left">
+<p>
   <em>左：IMDb 权限请求 &nbsp;&nbsp;&nbsp;&nbsp; 右：烂番茄权限请求</em>
 </p>
 
@@ -57,3 +61,8 @@
 
 ## License
 [MIT License](LICENSE)
+
+## 项目地址
+<a href="https://github.com/fisheepx/douban-imdb-rt" target="_blank">
+    <img src="assets/icon/github.png" width="99" height="99"/>
+</a>
