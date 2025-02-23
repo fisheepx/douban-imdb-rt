@@ -1,14 +1,14 @@
 # 豆瓣电影显示IMDb和烂番茄评分插件
 
-<p align="center">
-  <img src="assets/icon/alternatives/icon_original.png" width="128" height="128"/>
-  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">=</span>
-  <img src="assets/icon/douban.png" width="128" height="128"/>
-  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">+</span>
-  <img src="assets/icon/imdb.png" width="128" height="128"/>
-  <span style="font-size: 48px; font-weight: bold; vertical-align: middle; margin: 0 20px;">+</span>
-  <img src="assets/icon/rottentomatoes.png" width="128" height="128"/>
-</p>
+<div align="center">
+<img src="assets/icon/alternatives/icon_original.png" width="128" height="128"/>
+<img src="assets/icon/equals.png" width="78" height="78" style="margin: 20 20px;"/>
+<img src="assets/icon/douban.png" width="128" height="128"/>
+<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20 20px;"/>
+<img src="assets/icon/imdb.png" width="128" height="128"/>
+<img src="assets/icon/plus.png" width="78" height="78" style="margin: 20 20px; "/>
+<img src="assets/icon/rottentomatoes.png" width="128" height="128"/>
+</div>
 
 在豆瓣电影页面显示对应的IMDb评分和烂番茄评分（影评人，观众）数据。
 
