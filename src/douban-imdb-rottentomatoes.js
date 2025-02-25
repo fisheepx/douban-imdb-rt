@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         豆瓣电影 IMDb和烂番茄评分显示
+// @name         豆b番——豆瓣电影显示IMDb和烂番茄评分
 // @namespace    https://github.com/fisheepx
 // @version      1.0.0
 // @description  在豆瓣电影页面显示IMDb和烂番茄评分
@@ -14,8 +14,8 @@
 // @compatible   chrome 最新版 运行正常
 // @compatible   firefox 最新版 运行正常
 // @compatible   safari 最新版 运行正常
-// @updateURL    https://greasyfork.org/scripts/527823/code/script.meta.js
-// @downloadURL  https://greasyfork.org/scripts/527823/code/script.user.js
+// @updateURL    https://greasyfork.org/scripts/527986/code/script.meta.js
+// @downloadURL  https://greasyfork.org/scripts/527986/code/script.user.js
 // ==/UserScript==
 
 (function() {
